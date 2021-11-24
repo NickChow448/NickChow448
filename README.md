@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML and going into JavaScript
 <h1>
   <em>
-- Coding isn't meant to be perfected, its something that you always make mistakes on no matter how good you are.
+- Coding isn't meant to be perfected, its something that you always make mistakes on no matter how much practice you give it.
   </em>
  </h1>
 
